@@ -60,7 +60,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "Tailwind", "Vite", "Framer-motion"],
-    href: "https://tizaraa-test.vercel.app/",
+    href: "https://myportfolio346.vercel.app/",
   },
   {
     title: "Engineering Services Website Design",
